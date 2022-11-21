@@ -4,8 +4,9 @@ Then, the audio mp4 file for the video gets downladed using the Pytube API and g
 The program then sets up a pygame window and begins playing a cool "bar-wave" animation that follows the rhythms and volume dynamics of the audio!
 
 
+
 To run program on your computer:
 
-Install all the Python dependencies listed in requirements.txt
+  - Install all the Python dependencies listed in requirements.txt
 
-Run main.py from source folder
+  - Run main.py from source folder
