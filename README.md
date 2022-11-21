@@ -5,5 +5,7 @@ The program then sets up a pygame window and begins playing a cool "bar-wave" an
 
 
 To run program on your computer:
+
 Install all the Python dependencies listed in requirements.txt
+
 Run main.py from source folder
