@@ -1,0 +1,6 @@
+Flask
+pafy
+numpy
+pygame
+scipy
+pydub
